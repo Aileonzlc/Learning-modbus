@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.venvPath": "I:\\python-venv\\",
+		"python.venvFolders": [
+			"modbus-venv"
+		]
+	}
+}
